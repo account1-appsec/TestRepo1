@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5e43c9ff84be3b0009e43c6c
+type: experiment
+flag: title
+availableValues:
+  - 'XXXxxxXXX"<>&{{3*3}}<img src=2/> <b> bbb </b> <script>alert(1);</script>'
+  - Time ToDo
+  - Things to do
+  - Get things done
+value: Get things done
